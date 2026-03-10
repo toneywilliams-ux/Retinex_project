@@ -41,4 +41,7 @@ Step-1: Max channel calculation ( max (R, G, B))
 Step-2: Coarse illumination estimation ( max (max (R, G, B)))
       - as we need some window as the illumination changes slowly across space, so using a local window helps estimate the local lighting condition.
       - we use {line buffers + sliding window}
-      - in paper they have used this simplification method where they make the 11 x 11 sliding window into a 1 x 11 window by takinf the maxi
+      - in paper they have used this simplification method where they make the 11 x 11 sliding window into a 1 x 11 window by using line buffers.
+      - this makes the the process simpler and can run 1 pixel per clock.
+
+
