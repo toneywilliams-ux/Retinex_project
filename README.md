@@ -3,7 +3,7 @@
 *A simplified step‑by‑step explanation with block diagrams and pipeline diagrams*
 
 
-here is the top module of this project 1_max_channel.v
+here is the top module of this project [1_max_channel.v](https://github.com/toneywilliams-ux/Retinex_project/blob/f3d1cdf0ddd2b69e1a2bb271740bafc520f0265e/1_max_channel.v)
 ---
 
 # 1. What Problem Are We Solving?
