@@ -2,6 +2,8 @@
 
 *A simplified step‑by‑step explanation with block diagrams and pipeline diagrams*
 
+
+here is the top module of this project 1_max_channel.v
 ---
 
 # 1. What Problem Are We Solving?
