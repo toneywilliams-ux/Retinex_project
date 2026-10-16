@@ -1,5 +1,7 @@
 # Reproducibility notes
 
+See [the step-by-step project walkthrough](PROJECT_WALKTHROUGH.md) for the RTL flow and study sequence.
+
 ## What is included
 
 - The current conference-paper draft in LaTeX, PDF, and editable Word format.

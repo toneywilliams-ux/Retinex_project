@@ -26,3 +26,15 @@ outputs/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Vivado generated project and simulation output
+.Xil/
+*.jou
+*.str
+*.wdb
+*.vcd
+*.pb
+*.hwdef
+*.bit
+*.ltx
+vivado_project/
