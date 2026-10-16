@@ -1,0 +1,1441 @@
+method,image,true_class,predicted_class,correct
+PWL Retinex,Bicycle__2015_00404.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00431.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00449.JPG,Bicycle,People,0
+PWL Retinex,Bicycle__2015_00458.JPG,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00475.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00477.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00486.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00493.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00505.png,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00523.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00533.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00534.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00537.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00545.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00558.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00599.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00604.jpg,Bicycle,Bus,0
+PWL Retinex,Bicycle__2015_00606.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00643.jpg,Bicycle,Bicycle,1
+PWL Retinex,Bicycle__2015_00644.jpg,Bicycle,Bicycle,1
+PWL Retinex,Boat__2015_01058.jpg,Boat,Boat,1
+PWL Retinex,Boat__2015_01095.jpg,Boat,Boat,1
+PWL Retinex,Boat__2015_01110.jpg,Boat,Boat,1
+PWL Retinex,Boat__2015_01125.jpg,Boat,People,0
+PWL Retinex,Boat__2015_01133.jpg,Boat,Boat,1
+PWL Retinex,Boat__2015_01163.JPEG,Boat,People,0
+PWL Retinex,Boat__2015_01166.JPEG,Boat,Boat,1
+PWL Retinex,Boat__2015_01176.JPEG,Boat,Boat,1
+PWL Retinex,Boat__2015_01215.jpg,Boat,Boat,1
+PWL Retinex,Boat__2015_01226.jpg,Boat,People,0
+PWL Retinex,Boat__2015_01232.jpg,Boat,Boat,1
+PWL Retinex,Boat__2015_01233.jpg,Boat,Boat,1
+PWL Retinex,Boat__2015_01245.jpg,Boat,Boat,1
+PWL Retinex,Boat__2015_01268.jpg,Boat,Car,0
+PWL Retinex,Boat__2015_01273.png,Boat,Boat,1
+PWL Retinex,Boat__2015_01298.jpg,Boat,Chair,0
+PWL Retinex,Boat__2015_01301.jpg,Boat,People,0
+PWL Retinex,Boat__2015_01308.jpg,Boat,People,0
+PWL Retinex,Boat__2015_01320.png,Boat,Cup,0
+PWL Retinex,Boat__2015_01329.jpg,Boat,Boat,1
+PWL Retinex,Bottle__2015_01736.JPG,Bottle,Cup,0
+PWL Retinex,Bottle__2015_01752.jpg,Bottle,Table,0
+PWL Retinex,Bottle__2015_01759.jpg,Bottle,Chair,0
+PWL Retinex,Bottle__2015_01762.jpg,Bottle,Table,0
+PWL Retinex,Bottle__2015_01765.jpg,Bottle,People,0
+PWL Retinex,Bottle__2015_01784.jpg,Bottle,Bottle,1
+PWL Retinex,Bottle__2015_01796.JPEG,Bottle,Bottle,1
+PWL Retinex,Bottle__2015_01797.JPEG,Bottle,Bottle,1
+PWL Retinex,Bottle__2015_01801.JPEG,Bottle,People,0
+PWL Retinex,Bottle__2015_01808.JPEG,Bottle,Bottle,1
+PWL Retinex,Bottle__2015_01815.JPEG,Bottle,Bottle,1
+PWL Retinex,Bottle__2015_01818.JPEG,Bottle,Bottle,1
+PWL Retinex,Bottle__2015_01823.jpg,Bottle,Chair,0
+PWL Retinex,Bottle__2015_01830.jpg,Bottle,Table,0
+PWL Retinex,Bottle__2015_01838.jpg,Bottle,Bottle,1
+PWL Retinex,Bottle__2015_01860.png,Bottle,Table,0
+PWL Retinex,Bottle__2015_01861.png,Bottle,People,0
+PWL Retinex,Bottle__2015_01866.png,Bottle,Chair,0
+PWL Retinex,Bottle__2015_01872.png,Bottle,People,0
+PWL Retinex,Bottle__2015_01874.png,Bottle,Chair,0
+PWL Retinex,Bus__2015_02287.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02288.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02292.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02293.jpg,Bus,People,0
+PWL Retinex,Bus__2015_02295.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02298.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02307.jpg,Bus,Car,0
+PWL Retinex,Bus__2015_02309.png,Bus,People,0
+PWL Retinex,Bus__2015_02310.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02316.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02319.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02343.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02349.JPEG,Bus,Bus,1
+PWL Retinex,Bus__2015_02355.JPEG,Bus,Bus,1
+PWL Retinex,Bus__2015_02358.JPEG,Bus,Bus,1
+PWL Retinex,Bus__2015_02383.jpg,Bus,Bus,1
+PWL Retinex,Bus__2015_02388.jpg,Bus,People,0
+PWL Retinex,Bus__2015_02397.jpg,Bus,People,0
+PWL Retinex,Bus__2015_02399.png,Bus,People,0
+PWL Retinex,Bus__2015_02403.png,Bus,Bus,1
+PWL Retinex,Car__2015_02815.jpg,Car,People,0
+PWL Retinex,Car__2015_02836.jpg,Car,People,0
+PWL Retinex,Car__2015_02838.jpg,Car,Car,1
+PWL Retinex,Car__2015_02842.jpg,Car,Car,1
+PWL Retinex,Car__2015_02846.jpg,Car,Car,1
+PWL Retinex,Car__2015_02851.jpg,Car,Car,1
+PWL Retinex,Car__2015_02862.jpg,Car,Car,1
+PWL Retinex,Car__2015_02903.png,Car,Car,1
+PWL Retinex,Car__2015_02933.jpg,Car,Car,1
+PWL Retinex,Car__2015_02958.jpg,Car,People,0
+PWL Retinex,Car__2015_02967.jpg,Car,Car,1
+PWL Retinex,Car__2015_02980.jpg,Car,Car,1
+PWL Retinex,Car__2015_02986.jpg,Car,Car,1
+PWL Retinex,Car__2015_02998.jpg,Car,Car,1
+PWL Retinex,Car__2015_03003.jpg,Car,Car,1
+PWL Retinex,Car__2015_03005.png,Car,Car,1
+PWL Retinex,Car__2015_03014.png,Car,Car,1
+PWL Retinex,Car__2015_03015.png,Car,Car,1
+PWL Retinex,Car__2015_03019.png,Car,People,0
+PWL Retinex,Car__2015_03035.jpg,Car,People,0
+PWL Retinex,Cat__2015_03458.jpg,Cat,People,0
+PWL Retinex,Cat__2015_03489.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03500.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03504.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03509.jpg,Cat,People,0
+PWL Retinex,Cat__2015_03520.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03524.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03542.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03550.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03583.jpg,Cat,Dog,0
+PWL Retinex,Cat__2015_03592.jpg,Cat,Dog,0
+PWL Retinex,Cat__2015_03604.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03640.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03658.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03664.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03716.jpg,Cat,People,0
+PWL Retinex,Cat__2015_03725.jpg,Cat,Cat,1
+PWL Retinex,Cat__2015_03736.png,Cat,People,0
+PWL Retinex,Cat__2015_03749.png,Cat,Cat,1
+PWL Retinex,Cat__2015_03754.png,Cat,People,0
+PWL Retinex,Chair__2015_04186.JPG,Chair,Chair,1
+PWL Retinex,Chair__2015_04210.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04222.png,Chair,Chair,1
+PWL Retinex,Chair__2015_04227.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04237.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04239.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04245.jpg,Chair,People,0
+PWL Retinex,Chair__2015_04256.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04260.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04278.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04306.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04337.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04343.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04345.jpg,Chair,Chair,1
+PWL Retinex,Chair__2015_04357.jpg,Chair,People,0
+PWL Retinex,Chair__2015_04374.png,Chair,Chair,1
+PWL Retinex,Chair__2015_04395.png,Chair,People,0
+PWL Retinex,Chair__2015_04398.png,Chair,People,0
+PWL Retinex,Chair__2015_04416.png,Chair,People,0
+PWL Retinex,Chair__2015_04419.jpg,Chair,People,0
+PWL Retinex,Cup__2015_04825.jpg,Cup,Cup,1
+PWL Retinex,Cup__2015_04828.jpg,Cup,Cup,1
+PWL Retinex,Cup__2015_04832.jpg,Cup,Cup,1
+PWL Retinex,Cup__2015_04833.jpg,Cup,People,0
+PWL Retinex,Cup__2015_04835.jpg,Cup,People,0
+PWL Retinex,Cup__2015_04840.JPEG,Cup,Cup,1
+PWL Retinex,Cup__2015_04846.JPEG,Cup,Cup,1
+PWL Retinex,Cup__2015_04847.JPEG,Cup,Cup,1
+PWL Retinex,Cup__2015_04860.jpg,Cup,Cup,1
+PWL Retinex,Cup__2015_04870.jpg,Cup,Cup,1
+PWL Retinex,Cup__2015_04871.jpg,Cup,Bottle,0
+PWL Retinex,Cup__2015_04874.jpg,Cup,People,0
+PWL Retinex,Cup__2015_04876.jpg,Cup,Cup,1
+PWL Retinex,Cup__2015_04877.jpg,Cup,Cup,1
+PWL Retinex,Cup__2015_04892.jpg,Cup,Cup,1
+PWL Retinex,Cup__2015_04910.png,Cup,People,0
+PWL Retinex,Cup__2015_04911.png,Cup,People,0
+PWL Retinex,Cup__2015_04912.png,Cup,People,0
+PWL Retinex,Cup__2015_04913.png,Cup,People,0
+PWL Retinex,Cup__2015_04938.jpg,Cup,Cup,1
+PWL Retinex,Dog__2015_05371.jpg,Dog,Car,0
+PWL Retinex,Dog__2015_05377.jpg,Dog,People,0
+PWL Retinex,Dog__2015_05385.jpg,Dog,Dog,1
+PWL Retinex,Dog__2015_05396.jpg,Dog,Dog,1
+PWL Retinex,Dog__2015_05415.jpg,Dog,Dog,1
+PWL Retinex,Dog__2015_05461.jpg,Dog,People,0
+PWL Retinex,Dog__2015_05499.JPEG,Dog,People,0
+PWL Retinex,Dog__2015_05510.jpg,Dog,Dog,1
+PWL Retinex,Dog__2015_05512.JPEG,Dog,Dog,1
+PWL Retinex,Dog__2015_05522.JPEG,Dog,Dog,1
+PWL Retinex,Dog__2015_05526.JPEG,Dog,Dog,1
+PWL Retinex,Dog__2015_05543.JPEG,Dog,Dog,1
+PWL Retinex,Dog__2015_05545.JPEG,Dog,Dog,1
+PWL Retinex,Dog__2015_05546.JPEG,Dog,Cat,0
+PWL Retinex,Dog__2015_05586.jpg,Dog,Dog,1
+PWL Retinex,Dog__2015_05608.jpg,Dog,People,0
+PWL Retinex,Dog__2015_05617.jpg,Dog,Dog,1
+PWL Retinex,Dog__2015_05707.png,Dog,People,0
+PWL Retinex,Dog__2015_05713.png,Dog,People,0
+PWL Retinex,Dog__2015_05718.png,Dog,People,0
+PWL Retinex,Motorbike__2015_06155.JPEG,Motorbike,Motorbike,1
+PWL Retinex,Motorbike__2015_06163.jpg,Motorbike,Motorbike,1
+PWL Retinex,Motorbike__2015_06165.jpg,Motorbike,Motorbike,1
+PWL Retinex,Motorbike__2015_06171.jpg,Motorbike,Motorbike,1
+PWL Retinex,Motorbike__2015_06177.jpg,Motorbike,Motorbike,1
+PWL Retinex,Motorbike__2015_06181.jpg,Motorbike,People,0
+PWL Retinex,Motorbike__2015_06185.jpg,Motorbike,Car,0
+PWL Retinex,Motorbike__2015_06188.jpg,Motorbike,Motorbike,1
+PWL Retinex,Motorbike__2015_06190.jpg,Motorbike,Motorbike,1
+PWL Retinex,Motorbike__2015_06198.png,Motorbike,Motorbike,1
+PWL Retinex,Motorbike__2015_06200.png,Motorbike,People,0
+PWL Retinex,Motorbike__2015_06202.png,Motorbike,People,0
+PWL Retinex,Motorbike__2015_06203.png,Motorbike,Car,0
+PWL Retinex,Motorbike__2015_06209.png,Motorbike,People,0
+PWL Retinex,Motorbike__2015_06210.png,Motorbike,People,0
+PWL Retinex,Motorbike__2015_06213.png,Motorbike,People,0
+PWL Retinex,Motorbike__2015_06216.png,Motorbike,People,0
+PWL Retinex,Motorbike__2015_06219.png,Motorbike,Bicycle,0
+PWL Retinex,Motorbike__2015_06244.jpg,Motorbike,People,0
+PWL Retinex,Motorbike__2016_07356.jpg,Motorbike,Motorbike,1
+PWL Retinex,People__2015_06655.JPEG,People,People,1
+PWL Retinex,People__2015_06664.JPEG,People,People,1
+PWL Retinex,People__2015_06666.JPEG,People,People,1
+PWL Retinex,People__2015_06668.JPEG,People,People,1
+PWL Retinex,People__2015_06670.JPEG,People,People,1
+PWL Retinex,People__2015_06682.jpg,People,People,1
+PWL Retinex,People__2015_06689.JPG,People,People,1
+PWL Retinex,People__2015_06692.JPG,People,People,1
+PWL Retinex,People__2015_06694.jpg,People,People,1
+PWL Retinex,People__2015_06716.jpg,People,People,1
+PWL Retinex,People__2015_06720.jpg,People,People,1
+PWL Retinex,People__2015_06730.jpg,People,People,1
+PWL Retinex,People__2015_06744.jpg,People,People,1
+PWL Retinex,People__2015_06748.jpg,People,People,1
+PWL Retinex,People__2015_06762.jpg,People,People,1
+PWL Retinex,People__2015_06763.jpg,People,People,1
+PWL Retinex,People__2015_06769.jpg,People,Boat,0
+PWL Retinex,People__2015_06807.png,People,People,1
+PWL Retinex,People__2015_06809.png,People,People,1
+PWL Retinex,People__2015_06846.png,People,People,1
+PWL Retinex,Table__2015_07258.jpg,Table,Chair,0
+PWL Retinex,Table__2015_07259.jpg,Table,Chair,0
+PWL Retinex,Table__2015_07265.jpg,Table,Chair,0
+PWL Retinex,Table__2015_07266.jpg,Table,Table,1
+PWL Retinex,Table__2015_07268.jpg,Table,Chair,0
+PWL Retinex,Table__2015_07273.JPEG,Table,Dog,0
+PWL Retinex,Table__2015_07282.jpg,Table,Table,1
+PWL Retinex,Table__2015_07283.jpg,Table,People,0
+PWL Retinex,Table__2015_07285.jpg,Table,Table,1
+PWL Retinex,Table__2015_07286.jpg,Table,Table,1
+PWL Retinex,Table__2015_07289.jpg,Table,People,0
+PWL Retinex,Table__2015_07291.jpg,Table,Table,1
+PWL Retinex,Table__2015_07297.jpg,Table,Cup,0
+PWL Retinex,Table__2015_07306.png,Table,Chair,0
+PWL Retinex,Table__2015_07307.png,Table,People,0
+PWL Retinex,Table__2015_07321.png,Table,People,0
+PWL Retinex,Table__2015_07328.png,Table,Boat,0
+PWL Retinex,Table__2015_07329.png,Table,People,0
+PWL Retinex,Table__2015_07350.png,Table,People,0
+PWL Retinex,Table__2017_07358.jpg,Table,Chair,0
+Retinex-DIP,Bicycle__2015_00404.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00431.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00449.JPG,Bicycle,People,0
+Retinex-DIP,Bicycle__2015_00458.JPG,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00475.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00477.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00486.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00493.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00505.png,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00523.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00533.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00534.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00537.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00545.jpg,Bicycle,Motorbike,0
+Retinex-DIP,Bicycle__2015_00558.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00599.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00604.jpg,Bicycle,Bus,0
+Retinex-DIP,Bicycle__2015_00606.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00643.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Bicycle__2015_00644.jpg,Bicycle,Bicycle,1
+Retinex-DIP,Boat__2015_01058.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01095.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01110.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01125.jpg,Boat,People,0
+Retinex-DIP,Boat__2015_01133.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01163.JPEG,Boat,People,0
+Retinex-DIP,Boat__2015_01166.JPEG,Boat,Boat,1
+Retinex-DIP,Boat__2015_01176.JPEG,Boat,Boat,1
+Retinex-DIP,Boat__2015_01215.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01226.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01232.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01233.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01245.jpg,Boat,Boat,1
+Retinex-DIP,Boat__2015_01268.jpg,Boat,People,0
+Retinex-DIP,Boat__2015_01273.png,Boat,Boat,1
+Retinex-DIP,Boat__2015_01298.jpg,Boat,People,0
+Retinex-DIP,Boat__2015_01301.jpg,Boat,Car,0
+Retinex-DIP,Boat__2015_01308.jpg,Boat,Chair,0
+Retinex-DIP,Boat__2015_01320.png,Boat,Cup,0
+Retinex-DIP,Boat__2015_01329.jpg,Boat,Boat,1
+Retinex-DIP,Bottle__2015_01736.JPG,Bottle,Cup,0
+Retinex-DIP,Bottle__2015_01752.jpg,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01759.jpg,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01762.jpg,Bottle,Cup,0
+Retinex-DIP,Bottle__2015_01765.jpg,Bottle,People,0
+Retinex-DIP,Bottle__2015_01784.jpg,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01796.JPEG,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01797.JPEG,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01801.JPEG,Bottle,People,0
+Retinex-DIP,Bottle__2015_01808.JPEG,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01815.JPEG,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01818.JPEG,Bottle,Cup,0
+Retinex-DIP,Bottle__2015_01823.jpg,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01830.jpg,Bottle,Cup,0
+Retinex-DIP,Bottle__2015_01838.jpg,Bottle,Bottle,1
+Retinex-DIP,Bottle__2015_01860.png,Bottle,Table,0
+Retinex-DIP,Bottle__2015_01861.png,Bottle,People,0
+Retinex-DIP,Bottle__2015_01866.png,Bottle,People,0
+Retinex-DIP,Bottle__2015_01872.png,Bottle,People,0
+Retinex-DIP,Bottle__2015_01874.png,Bottle,Table,0
+Retinex-DIP,Bus__2015_02287.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02288.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02292.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02293.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02295.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02298.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02307.jpg,Bus,Car,0
+Retinex-DIP,Bus__2015_02309.png,Bus,People,0
+Retinex-DIP,Bus__2015_02310.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02316.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02319.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02343.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02349.JPEG,Bus,Bus,1
+Retinex-DIP,Bus__2015_02355.JPEG,Bus,Car,0
+Retinex-DIP,Bus__2015_02358.JPEG,Bus,Bus,1
+Retinex-DIP,Bus__2015_02383.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02388.jpg,Bus,People,0
+Retinex-DIP,Bus__2015_02397.jpg,Bus,Bus,1
+Retinex-DIP,Bus__2015_02399.png,Bus,Bus,1
+Retinex-DIP,Bus__2015_02403.png,Bus,Bus,1
+Retinex-DIP,Car__2015_02815.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02836.jpg,Car,People,0
+Retinex-DIP,Car__2015_02838.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02842.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02846.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02851.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02862.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02903.png,Car,Car,1
+Retinex-DIP,Car__2015_02933.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02958.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02967.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02980.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02986.jpg,Car,Car,1
+Retinex-DIP,Car__2015_02998.jpg,Car,Car,1
+Retinex-DIP,Car__2015_03003.jpg,Car,Car,1
+Retinex-DIP,Car__2015_03005.png,Car,Car,1
+Retinex-DIP,Car__2015_03014.png,Car,Car,1
+Retinex-DIP,Car__2015_03015.png,Car,Car,1
+Retinex-DIP,Car__2015_03019.png,Car,People,0
+Retinex-DIP,Car__2015_03035.jpg,Car,Car,1
+Retinex-DIP,Cat__2015_03458.jpg,Cat,Chair,0
+Retinex-DIP,Cat__2015_03489.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03500.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03504.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03509.jpg,Cat,People,0
+Retinex-DIP,Cat__2015_03520.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03524.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03542.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03550.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03583.jpg,Cat,Dog,0
+Retinex-DIP,Cat__2015_03592.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03604.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03640.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03658.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03664.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03716.jpg,Cat,Car,0
+Retinex-DIP,Cat__2015_03725.jpg,Cat,Cat,1
+Retinex-DIP,Cat__2015_03736.png,Cat,Dog,0
+Retinex-DIP,Cat__2015_03749.png,Cat,Cat,1
+Retinex-DIP,Cat__2015_03754.png,Cat,People,0
+Retinex-DIP,Chair__2015_04186.JPG,Chair,Chair,1
+Retinex-DIP,Chair__2015_04210.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04222.png,Chair,Chair,1
+Retinex-DIP,Chair__2015_04227.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04237.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04239.jpg,Chair,People,0
+Retinex-DIP,Chair__2015_04245.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04256.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04260.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04278.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04306.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04337.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04343.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04345.jpg,Chair,Chair,1
+Retinex-DIP,Chair__2015_04357.jpg,Chair,People,0
+Retinex-DIP,Chair__2015_04374.png,Chair,Chair,1
+Retinex-DIP,Chair__2015_04395.png,Chair,People,0
+Retinex-DIP,Chair__2015_04398.png,Chair,People,0
+Retinex-DIP,Chair__2015_04416.png,Chair,People,0
+Retinex-DIP,Chair__2015_04419.jpg,Chair,People,0
+Retinex-DIP,Cup__2015_04825.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04828.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04832.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04833.jpg,Cup,People,0
+Retinex-DIP,Cup__2015_04835.jpg,Cup,People,0
+Retinex-DIP,Cup__2015_04840.JPEG,Cup,Cup,1
+Retinex-DIP,Cup__2015_04846.JPEG,Cup,Cup,1
+Retinex-DIP,Cup__2015_04847.JPEG,Cup,Cup,1
+Retinex-DIP,Cup__2015_04860.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04870.jpg,Cup,People,0
+Retinex-DIP,Cup__2015_04871.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04874.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04876.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04877.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04892.jpg,Cup,Cup,1
+Retinex-DIP,Cup__2015_04910.png,Cup,Bottle,0
+Retinex-DIP,Cup__2015_04911.png,Cup,Bottle,0
+Retinex-DIP,Cup__2015_04912.png,Cup,People,0
+Retinex-DIP,Cup__2015_04913.png,Cup,People,0
+Retinex-DIP,Cup__2015_04938.jpg,Cup,Cup,1
+Retinex-DIP,Dog__2015_05371.jpg,Dog,Dog,1
+Retinex-DIP,Dog__2015_05377.jpg,Dog,Dog,1
+Retinex-DIP,Dog__2015_05385.jpg,Dog,Dog,1
+Retinex-DIP,Dog__2015_05396.jpg,Dog,Dog,1
+Retinex-DIP,Dog__2015_05415.jpg,Dog,Dog,1
+Retinex-DIP,Dog__2015_05461.jpg,Dog,People,0
+Retinex-DIP,Dog__2015_05499.JPEG,Dog,Dog,1
+Retinex-DIP,Dog__2015_05510.jpg,Dog,Cat,0
+Retinex-DIP,Dog__2015_05512.JPEG,Dog,Dog,1
+Retinex-DIP,Dog__2015_05522.JPEG,Dog,Dog,1
+Retinex-DIP,Dog__2015_05526.JPEG,Dog,Dog,1
+Retinex-DIP,Dog__2015_05543.JPEG,Dog,Cat,0
+Retinex-DIP,Dog__2015_05545.JPEG,Dog,People,0
+Retinex-DIP,Dog__2015_05546.JPEG,Dog,Cat,0
+Retinex-DIP,Dog__2015_05586.jpg,Dog,Dog,1
+Retinex-DIP,Dog__2015_05608.jpg,Dog,People,0
+Retinex-DIP,Dog__2015_05617.jpg,Dog,Dog,1
+Retinex-DIP,Dog__2015_05707.png,Dog,People,0
+Retinex-DIP,Dog__2015_05713.png,Dog,People,0
+Retinex-DIP,Dog__2015_05718.png,Dog,People,0
+Retinex-DIP,Motorbike__2015_06155.JPEG,Motorbike,Car,0
+Retinex-DIP,Motorbike__2015_06163.jpg,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2015_06165.jpg,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2015_06171.jpg,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2015_06177.jpg,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2015_06181.jpg,Motorbike,People,0
+Retinex-DIP,Motorbike__2015_06185.jpg,Motorbike,Car,0
+Retinex-DIP,Motorbike__2015_06188.jpg,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2015_06190.jpg,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2015_06198.png,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2015_06200.png,Motorbike,People,0
+Retinex-DIP,Motorbike__2015_06202.png,Motorbike,People,0
+Retinex-DIP,Motorbike__2015_06203.png,Motorbike,Car,0
+Retinex-DIP,Motorbike__2015_06209.png,Motorbike,People,0
+Retinex-DIP,Motorbike__2015_06210.png,Motorbike,People,0
+Retinex-DIP,Motorbike__2015_06213.png,Motorbike,People,0
+Retinex-DIP,Motorbike__2015_06216.png,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2015_06219.png,Motorbike,People,0
+Retinex-DIP,Motorbike__2015_06244.jpg,Motorbike,Motorbike,1
+Retinex-DIP,Motorbike__2016_07356.jpg,Motorbike,Motorbike,1
+Retinex-DIP,People__2015_06655.JPEG,People,People,1
+Retinex-DIP,People__2015_06664.JPEG,People,People,1
+Retinex-DIP,People__2015_06666.JPEG,People,People,1
+Retinex-DIP,People__2015_06668.JPEG,People,People,1
+Retinex-DIP,People__2015_06670.JPEG,People,People,1
+Retinex-DIP,People__2015_06682.jpg,People,People,1
+Retinex-DIP,People__2015_06689.JPG,People,People,1
+Retinex-DIP,People__2015_06692.JPG,People,Car,0
+Retinex-DIP,People__2015_06694.jpg,People,People,1
+Retinex-DIP,People__2015_06716.jpg,People,People,1
+Retinex-DIP,People__2015_06720.jpg,People,People,1
+Retinex-DIP,People__2015_06730.jpg,People,People,1
+Retinex-DIP,People__2015_06744.jpg,People,People,1
+Retinex-DIP,People__2015_06748.jpg,People,People,1
+Retinex-DIP,People__2015_06762.jpg,People,People,1
+Retinex-DIP,People__2015_06763.jpg,People,People,1
+Retinex-DIP,People__2015_06769.jpg,People,Boat,0
+Retinex-DIP,People__2015_06807.png,People,People,1
+Retinex-DIP,People__2015_06809.png,People,People,1
+Retinex-DIP,People__2015_06846.png,People,People,1
+Retinex-DIP,Table__2015_07258.jpg,Table,Chair,0
+Retinex-DIP,Table__2015_07259.jpg,Table,Chair,0
+Retinex-DIP,Table__2015_07265.jpg,Table,Table,1
+Retinex-DIP,Table__2015_07266.jpg,Table,Table,1
+Retinex-DIP,Table__2015_07268.jpg,Table,Chair,0
+Retinex-DIP,Table__2015_07273.JPEG,Table,Dog,0
+Retinex-DIP,Table__2015_07282.jpg,Table,Table,1
+Retinex-DIP,Table__2015_07283.jpg,Table,People,0
+Retinex-DIP,Table__2015_07285.jpg,Table,People,0
+Retinex-DIP,Table__2015_07286.jpg,Table,Table,1
+Retinex-DIP,Table__2015_07289.jpg,Table,People,0
+Retinex-DIP,Table__2015_07291.jpg,Table,Table,1
+Retinex-DIP,Table__2015_07297.jpg,Table,Cup,0
+Retinex-DIP,Table__2015_07306.png,Table,Chair,0
+Retinex-DIP,Table__2015_07307.png,Table,Car,0
+Retinex-DIP,Table__2015_07321.png,Table,People,0
+Retinex-DIP,Table__2015_07328.png,Table,Car,0
+Retinex-DIP,Table__2015_07329.png,Table,People,0
+Retinex-DIP,Table__2015_07350.png,Table,People,0
+Retinex-DIP,Table__2017_07358.jpg,Table,Chair,0
+LiCENt,Bicycle__2015_00404.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00431.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00449.JPG,Bicycle,People,0
+LiCENt,Bicycle__2015_00458.JPG,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00475.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00477.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00486.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00493.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00505.png,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00523.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00533.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00534.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00537.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00545.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00558.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00599.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00604.jpg,Bicycle,People,0
+LiCENt,Bicycle__2015_00606.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00643.jpg,Bicycle,Bicycle,1
+LiCENt,Bicycle__2015_00644.jpg,Bicycle,Bicycle,1
+LiCENt,Boat__2015_01058.jpg,Boat,Boat,1
+LiCENt,Boat__2015_01095.jpg,Boat,Boat,1
+LiCENt,Boat__2015_01110.jpg,Boat,Boat,1
+LiCENt,Boat__2015_01125.jpg,Boat,People,0
+LiCENt,Boat__2015_01133.jpg,Boat,Boat,1
+LiCENt,Boat__2015_01163.JPEG,Boat,Boat,1
+LiCENt,Boat__2015_01166.JPEG,Boat,Boat,1
+LiCENt,Boat__2015_01176.JPEG,Boat,Boat,1
+LiCENt,Boat__2015_01215.jpg,Boat,Boat,1
+LiCENt,Boat__2015_01226.jpg,Boat,Boat,1
+LiCENt,Boat__2015_01232.jpg,Boat,Boat,1
+LiCENt,Boat__2015_01233.jpg,Boat,Boat,1
+LiCENt,Boat__2015_01245.jpg,Boat,Table,0
+LiCENt,Boat__2015_01268.jpg,Boat,Car,0
+LiCENt,Boat__2015_01273.png,Boat,Boat,1
+LiCENt,Boat__2015_01298.jpg,Boat,Chair,0
+LiCENt,Boat__2015_01301.jpg,Boat,Chair,0
+LiCENt,Boat__2015_01308.jpg,Boat,People,0
+LiCENt,Boat__2015_01320.png,Boat,People,0
+LiCENt,Boat__2015_01329.jpg,Boat,Boat,1
+LiCENt,Bottle__2015_01736.JPG,Bottle,Cup,0
+LiCENt,Bottle__2015_01752.jpg,Bottle,Bottle,1
+LiCENt,Bottle__2015_01759.jpg,Bottle,Cat,0
+LiCENt,Bottle__2015_01762.jpg,Bottle,Table,0
+LiCENt,Bottle__2015_01765.jpg,Bottle,People,0
+LiCENt,Bottle__2015_01784.jpg,Bottle,Bottle,1
+LiCENt,Bottle__2015_01796.JPEG,Bottle,Bottle,1
+LiCENt,Bottle__2015_01797.JPEG,Bottle,Bottle,1
+LiCENt,Bottle__2015_01801.JPEG,Bottle,People,0
+LiCENt,Bottle__2015_01808.JPEG,Bottle,Bottle,1
+LiCENt,Bottle__2015_01815.JPEG,Bottle,Bottle,1
+LiCENt,Bottle__2015_01818.JPEG,Bottle,People,0
+LiCENt,Bottle__2015_01823.jpg,Bottle,Bottle,1
+LiCENt,Bottle__2015_01830.jpg,Bottle,Table,0
+LiCENt,Bottle__2015_01838.jpg,Bottle,Bottle,1
+LiCENt,Bottle__2015_01860.png,Bottle,Chair,0
+LiCENt,Bottle__2015_01861.png,Bottle,People,0
+LiCENt,Bottle__2015_01866.png,Bottle,Chair,0
+LiCENt,Bottle__2015_01872.png,Bottle,People,0
+LiCENt,Bottle__2015_01874.png,Bottle,Bottle,1
+LiCENt,Bus__2015_02287.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02288.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02292.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02293.jpg,Bus,People,0
+LiCENt,Bus__2015_02295.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02298.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02307.jpg,Bus,Car,0
+LiCENt,Bus__2015_02309.png,Bus,People,0
+LiCENt,Bus__2015_02310.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02316.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02319.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02343.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02349.JPEG,Bus,Bus,1
+LiCENt,Bus__2015_02355.JPEG,Bus,Car,0
+LiCENt,Bus__2015_02358.JPEG,Bus,Bus,1
+LiCENt,Bus__2015_02383.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02388.jpg,Bus,People,0
+LiCENt,Bus__2015_02397.jpg,Bus,Bus,1
+LiCENt,Bus__2015_02399.png,Bus,Bus,1
+LiCENt,Bus__2015_02403.png,Bus,Bus,1
+LiCENt,Car__2015_02815.jpg,Car,Car,1
+LiCENt,Car__2015_02836.jpg,Car,People,0
+LiCENt,Car__2015_02838.jpg,Car,Car,1
+LiCENt,Car__2015_02842.jpg,Car,Car,1
+LiCENt,Car__2015_02846.jpg,Car,Car,1
+LiCENt,Car__2015_02851.jpg,Car,Car,1
+LiCENt,Car__2015_02862.jpg,Car,Car,1
+LiCENt,Car__2015_02903.png,Car,Car,1
+LiCENt,Car__2015_02933.jpg,Car,Car,1
+LiCENt,Car__2015_02958.jpg,Car,Car,1
+LiCENt,Car__2015_02967.jpg,Car,Car,1
+LiCENt,Car__2015_02980.jpg,Car,Car,1
+LiCENt,Car__2015_02986.jpg,Car,Car,1
+LiCENt,Car__2015_02998.jpg,Car,Bus,0
+LiCENt,Car__2015_03003.jpg,Car,Car,1
+LiCENt,Car__2015_03005.png,Car,Car,1
+LiCENt,Car__2015_03014.png,Car,Car,1
+LiCENt,Car__2015_03015.png,Car,Car,1
+LiCENt,Car__2015_03019.png,Car,People,0
+LiCENt,Car__2015_03035.jpg,Car,Car,1
+LiCENt,Cat__2015_03458.jpg,Cat,Car,0
+LiCENt,Cat__2015_03489.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03500.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03504.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03509.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03520.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03524.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03542.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03550.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03583.jpg,Cat,Dog,0
+LiCENt,Cat__2015_03592.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03604.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03640.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03658.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03664.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03716.jpg,Cat,Table,0
+LiCENt,Cat__2015_03725.jpg,Cat,Cat,1
+LiCENt,Cat__2015_03736.png,Cat,People,0
+LiCENt,Cat__2015_03749.png,Cat,Cat,1
+LiCENt,Cat__2015_03754.png,Cat,Chair,0
+LiCENt,Chair__2015_04186.JPG,Chair,Chair,1
+LiCENt,Chair__2015_04210.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04222.png,Chair,Chair,1
+LiCENt,Chair__2015_04227.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04237.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04239.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04245.jpg,Chair,People,0
+LiCENt,Chair__2015_04256.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04260.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04278.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04306.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04337.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04343.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04345.jpg,Chair,Chair,1
+LiCENt,Chair__2015_04357.jpg,Chair,People,0
+LiCENt,Chair__2015_04374.png,Chair,Chair,1
+LiCENt,Chair__2015_04395.png,Chair,People,0
+LiCENt,Chair__2015_04398.png,Chair,People,0
+LiCENt,Chair__2015_04416.png,Chair,Chair,1
+LiCENt,Chair__2015_04419.jpg,Chair,People,0
+LiCENt,Cup__2015_04825.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04828.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04832.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04833.jpg,Cup,People,0
+LiCENt,Cup__2015_04835.jpg,Cup,People,0
+LiCENt,Cup__2015_04840.JPEG,Cup,Cup,1
+LiCENt,Cup__2015_04846.JPEG,Cup,Cup,1
+LiCENt,Cup__2015_04847.JPEG,Cup,Cup,1
+LiCENt,Cup__2015_04860.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04870.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04871.jpg,Cup,Bottle,0
+LiCENt,Cup__2015_04874.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04876.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04877.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04892.jpg,Cup,Cup,1
+LiCENt,Cup__2015_04910.png,Cup,Bottle,0
+LiCENt,Cup__2015_04911.png,Cup,People,0
+LiCENt,Cup__2015_04912.png,Cup,People,0
+LiCENt,Cup__2015_04913.png,Cup,People,0
+LiCENt,Cup__2015_04938.jpg,Cup,Cup,1
+LiCENt,Dog__2015_05371.jpg,Dog,Dog,1
+LiCENt,Dog__2015_05377.jpg,Dog,People,0
+LiCENt,Dog__2015_05385.jpg,Dog,Dog,1
+LiCENt,Dog__2015_05396.jpg,Dog,Dog,1
+LiCENt,Dog__2015_05415.jpg,Dog,Dog,1
+LiCENt,Dog__2015_05461.jpg,Dog,People,0
+LiCENt,Dog__2015_05499.JPEG,Dog,Dog,1
+LiCENt,Dog__2015_05510.jpg,Dog,Cat,0
+LiCENt,Dog__2015_05512.JPEG,Dog,Dog,1
+LiCENt,Dog__2015_05522.JPEG,Dog,Dog,1
+LiCENt,Dog__2015_05526.JPEG,Dog,Dog,1
+LiCENt,Dog__2015_05543.JPEG,Dog,Dog,1
+LiCENt,Dog__2015_05545.JPEG,Dog,Dog,1
+LiCENt,Dog__2015_05546.JPEG,Dog,Cat,0
+LiCENt,Dog__2015_05586.jpg,Dog,Dog,1
+LiCENt,Dog__2015_05608.jpg,Dog,People,0
+LiCENt,Dog__2015_05617.jpg,Dog,Dog,1
+LiCENt,Dog__2015_05707.png,Dog,People,0
+LiCENt,Dog__2015_05713.png,Dog,People,0
+LiCENt,Dog__2015_05718.png,Dog,People,0
+LiCENt,Motorbike__2015_06155.JPEG,Motorbike,Car,0
+LiCENt,Motorbike__2015_06163.jpg,Motorbike,Motorbike,1
+LiCENt,Motorbike__2015_06165.jpg,Motorbike,Motorbike,1
+LiCENt,Motorbike__2015_06171.jpg,Motorbike,Motorbike,1
+LiCENt,Motorbike__2015_06177.jpg,Motorbike,Motorbike,1
+LiCENt,Motorbike__2015_06181.jpg,Motorbike,People,0
+LiCENt,Motorbike__2015_06185.jpg,Motorbike,Car,0
+LiCENt,Motorbike__2015_06188.jpg,Motorbike,Motorbike,1
+LiCENt,Motorbike__2015_06190.jpg,Motorbike,Motorbike,1
+LiCENt,Motorbike__2015_06198.png,Motorbike,Motorbike,1
+LiCENt,Motorbike__2015_06200.png,Motorbike,People,0
+LiCENt,Motorbike__2015_06202.png,Motorbike,People,0
+LiCENt,Motorbike__2015_06203.png,Motorbike,Car,0
+LiCENt,Motorbike__2015_06209.png,Motorbike,People,0
+LiCENt,Motorbike__2015_06210.png,Motorbike,People,0
+LiCENt,Motorbike__2015_06213.png,Motorbike,People,0
+LiCENt,Motorbike__2015_06216.png,Motorbike,Motorbike,1
+LiCENt,Motorbike__2015_06219.png,Motorbike,Bottle,0
+LiCENt,Motorbike__2015_06244.jpg,Motorbike,People,0
+LiCENt,Motorbike__2016_07356.jpg,Motorbike,Motorbike,1
+LiCENt,People__2015_06655.JPEG,People,People,1
+LiCENt,People__2015_06664.JPEG,People,People,1
+LiCENt,People__2015_06666.JPEG,People,People,1
+LiCENt,People__2015_06668.JPEG,People,People,1
+LiCENt,People__2015_06670.JPEG,People,People,1
+LiCENt,People__2015_06682.jpg,People,People,1
+LiCENt,People__2015_06689.JPG,People,People,1
+LiCENt,People__2015_06692.JPG,People,People,1
+LiCENt,People__2015_06694.jpg,People,People,1
+LiCENt,People__2015_06716.jpg,People,People,1
+LiCENt,People__2015_06720.jpg,People,People,1
+LiCENt,People__2015_06730.jpg,People,People,1
+LiCENt,People__2015_06744.jpg,People,People,1
+LiCENt,People__2015_06748.jpg,People,People,1
+LiCENt,People__2015_06762.jpg,People,People,1
+LiCENt,People__2015_06763.jpg,People,People,1
+LiCENt,People__2015_06769.jpg,People,Boat,0
+LiCENt,People__2015_06807.png,People,People,1
+LiCENt,People__2015_06809.png,People,People,1
+LiCENt,People__2015_06846.png,People,People,1
+LiCENt,Table__2015_07258.jpg,Table,Chair,0
+LiCENt,Table__2015_07259.jpg,Table,Chair,0
+LiCENt,Table__2015_07265.jpg,Table,Chair,0
+LiCENt,Table__2015_07266.jpg,Table,Chair,0
+LiCENt,Table__2015_07268.jpg,Table,Chair,0
+LiCENt,Table__2015_07273.JPEG,Table,Dog,0
+LiCENt,Table__2015_07282.jpg,Table,Table,1
+LiCENt,Table__2015_07283.jpg,Table,People,0
+LiCENt,Table__2015_07285.jpg,Table,People,0
+LiCENt,Table__2015_07286.jpg,Table,Table,1
+LiCENt,Table__2015_07289.jpg,Table,People,0
+LiCENt,Table__2015_07291.jpg,Table,People,0
+LiCENt,Table__2015_07297.jpg,Table,Cup,0
+LiCENt,Table__2015_07306.png,Table,Chair,0
+LiCENt,Table__2015_07307.png,Table,Boat,0
+LiCENt,Table__2015_07321.png,Table,People,0
+LiCENt,Table__2015_07328.png,Table,Boat,0
+LiCENt,Table__2015_07329.png,Table,People,0
+LiCENt,Table__2015_07350.png,Table,People,0
+LiCENt,Table__2017_07358.jpg,Table,People,0
+EnlightenGAN,Bicycle__2015_00404.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00431.jpg,Bicycle,People,0
+EnlightenGAN,Bicycle__2015_00449.JPG,Bicycle,Motorbike,0
+EnlightenGAN,Bicycle__2015_00458.JPG,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00475.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00477.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00486.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00493.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00505.png,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00523.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00533.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00534.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00537.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00545.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00558.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00599.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00604.jpg,Bicycle,People,0
+EnlightenGAN,Bicycle__2015_00606.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00643.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Bicycle__2015_00644.jpg,Bicycle,Bicycle,1
+EnlightenGAN,Boat__2015_01058.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01095.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01110.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01125.jpg,Boat,People,0
+EnlightenGAN,Boat__2015_01133.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01163.JPEG,Boat,People,0
+EnlightenGAN,Boat__2015_01166.JPEG,Boat,Boat,1
+EnlightenGAN,Boat__2015_01176.JPEG,Boat,Boat,1
+EnlightenGAN,Boat__2015_01215.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01226.jpg,Boat,People,0
+EnlightenGAN,Boat__2015_01232.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01233.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01245.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01268.jpg,Boat,Boat,1
+EnlightenGAN,Boat__2015_01273.png,Boat,Boat,1
+EnlightenGAN,Boat__2015_01298.jpg,Boat,People,0
+EnlightenGAN,Boat__2015_01301.jpg,Boat,People,0
+EnlightenGAN,Boat__2015_01308.jpg,Boat,People,0
+EnlightenGAN,Boat__2015_01320.png,Boat,People,0
+EnlightenGAN,Boat__2015_01329.jpg,Boat,Boat,1
+EnlightenGAN,Bottle__2015_01736.JPG,Bottle,Cup,0
+EnlightenGAN,Bottle__2015_01752.jpg,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01759.jpg,Bottle,People,0
+EnlightenGAN,Bottle__2015_01762.jpg,Bottle,Table,0
+EnlightenGAN,Bottle__2015_01765.jpg,Bottle,People,0
+EnlightenGAN,Bottle__2015_01784.jpg,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01796.JPEG,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01797.JPEG,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01801.JPEG,Bottle,People,0
+EnlightenGAN,Bottle__2015_01808.JPEG,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01815.JPEG,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01818.JPEG,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01823.jpg,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01830.jpg,Bottle,Cup,0
+EnlightenGAN,Bottle__2015_01838.jpg,Bottle,Bottle,1
+EnlightenGAN,Bottle__2015_01860.png,Bottle,Table,0
+EnlightenGAN,Bottle__2015_01861.png,Bottle,People,0
+EnlightenGAN,Bottle__2015_01866.png,Bottle,People,0
+EnlightenGAN,Bottle__2015_01872.png,Bottle,People,0
+EnlightenGAN,Bottle__2015_01874.png,Bottle,Bottle,1
+EnlightenGAN,Bus__2015_02287.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02288.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02292.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02293.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02295.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02298.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02307.jpg,Bus,Car,0
+EnlightenGAN,Bus__2015_02309.png,Bus,People,0
+EnlightenGAN,Bus__2015_02310.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02316.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02319.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02343.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02349.JPEG,Bus,Bus,1
+EnlightenGAN,Bus__2015_02355.JPEG,Bus,Car,0
+EnlightenGAN,Bus__2015_02358.JPEG,Bus,Bus,1
+EnlightenGAN,Bus__2015_02383.jpg,Bus,Bus,1
+EnlightenGAN,Bus__2015_02388.jpg,Bus,Motorbike,0
+EnlightenGAN,Bus__2015_02397.jpg,Bus,Car,0
+EnlightenGAN,Bus__2015_02399.png,Bus,Bus,1
+EnlightenGAN,Bus__2015_02403.png,Bus,Bus,1
+EnlightenGAN,Car__2015_02815.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02836.jpg,Car,People,0
+EnlightenGAN,Car__2015_02838.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02842.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02846.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02851.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02862.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02903.png,Car,Car,1
+EnlightenGAN,Car__2015_02933.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02958.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02967.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02980.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02986.jpg,Car,Car,1
+EnlightenGAN,Car__2015_02998.jpg,Car,Car,1
+EnlightenGAN,Car__2015_03003.jpg,Car,Car,1
+EnlightenGAN,Car__2015_03005.png,Car,Car,1
+EnlightenGAN,Car__2015_03014.png,Car,Car,1
+EnlightenGAN,Car__2015_03015.png,Car,Car,1
+EnlightenGAN,Car__2015_03019.png,Car,People,0
+EnlightenGAN,Car__2015_03035.jpg,Car,Car,1
+EnlightenGAN,Cat__2015_03458.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03489.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03500.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03504.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03509.jpg,Cat,People,0
+EnlightenGAN,Cat__2015_03520.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03524.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03542.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03550.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03583.jpg,Cat,Dog,0
+EnlightenGAN,Cat__2015_03592.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03604.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03640.jpg,Cat,People,0
+EnlightenGAN,Cat__2015_03658.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03664.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03716.jpg,Cat,People,0
+EnlightenGAN,Cat__2015_03725.jpg,Cat,Cat,1
+EnlightenGAN,Cat__2015_03736.png,Cat,Dog,0
+EnlightenGAN,Cat__2015_03749.png,Cat,Cat,1
+EnlightenGAN,Cat__2015_03754.png,Cat,People,0
+EnlightenGAN,Chair__2015_04186.JPG,Chair,Chair,1
+EnlightenGAN,Chair__2015_04210.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04222.png,Chair,Chair,1
+EnlightenGAN,Chair__2015_04227.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04237.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04239.jpg,Chair,People,0
+EnlightenGAN,Chair__2015_04245.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04256.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04260.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04278.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04306.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04337.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04343.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04345.jpg,Chair,Chair,1
+EnlightenGAN,Chair__2015_04357.jpg,Chair,People,0
+EnlightenGAN,Chair__2015_04374.png,Chair,Chair,1
+EnlightenGAN,Chair__2015_04395.png,Chair,People,0
+EnlightenGAN,Chair__2015_04398.png,Chair,People,0
+EnlightenGAN,Chair__2015_04416.png,Chair,People,0
+EnlightenGAN,Chair__2015_04419.jpg,Chair,People,0
+EnlightenGAN,Cup__2015_04825.jpg,Cup,Cup,1
+EnlightenGAN,Cup__2015_04828.jpg,Cup,Cup,1
+EnlightenGAN,Cup__2015_04832.jpg,Cup,Cup,1
+EnlightenGAN,Cup__2015_04833.jpg,Cup,People,0
+EnlightenGAN,Cup__2015_04835.jpg,Cup,People,0
+EnlightenGAN,Cup__2015_04840.JPEG,Cup,Cup,1
+EnlightenGAN,Cup__2015_04846.JPEG,Cup,Cup,1
+EnlightenGAN,Cup__2015_04847.JPEG,Cup,Cup,1
+EnlightenGAN,Cup__2015_04860.jpg,Cup,People,0
+EnlightenGAN,Cup__2015_04870.jpg,Cup,Cup,1
+EnlightenGAN,Cup__2015_04871.jpg,Cup,Cup,1
+EnlightenGAN,Cup__2015_04874.jpg,Cup,Cup,1
+EnlightenGAN,Cup__2015_04876.jpg,Cup,Cup,1
+EnlightenGAN,Cup__2015_04877.jpg,Cup,Cup,1
+EnlightenGAN,Cup__2015_04892.jpg,Cup,Table,0
+EnlightenGAN,Cup__2015_04910.png,Cup,Bottle,0
+EnlightenGAN,Cup__2015_04911.png,Cup,Bottle,0
+EnlightenGAN,Cup__2015_04912.png,Cup,People,0
+EnlightenGAN,Cup__2015_04913.png,Cup,People,0
+EnlightenGAN,Cup__2015_04938.jpg,Cup,Cup,1
+EnlightenGAN,Dog__2015_05371.jpg,Dog,Car,0
+EnlightenGAN,Dog__2015_05377.jpg,Dog,People,0
+EnlightenGAN,Dog__2015_05385.jpg,Dog,Dog,1
+EnlightenGAN,Dog__2015_05396.jpg,Dog,Dog,1
+EnlightenGAN,Dog__2015_05415.jpg,Dog,Dog,1
+EnlightenGAN,Dog__2015_05461.jpg,Dog,People,0
+EnlightenGAN,Dog__2015_05499.JPEG,Dog,People,0
+EnlightenGAN,Dog__2015_05510.jpg,Dog,Cat,0
+EnlightenGAN,Dog__2015_05512.JPEG,Dog,Dog,1
+EnlightenGAN,Dog__2015_05522.JPEG,Dog,Dog,1
+EnlightenGAN,Dog__2015_05526.JPEG,Dog,Dog,1
+EnlightenGAN,Dog__2015_05543.JPEG,Dog,Cat,0
+EnlightenGAN,Dog__2015_05545.JPEG,Dog,Dog,1
+EnlightenGAN,Dog__2015_05546.JPEG,Dog,Cat,0
+EnlightenGAN,Dog__2015_05586.jpg,Dog,People,0
+EnlightenGAN,Dog__2015_05608.jpg,Dog,People,0
+EnlightenGAN,Dog__2015_05617.jpg,Dog,Dog,1
+EnlightenGAN,Dog__2015_05707.png,Dog,People,0
+EnlightenGAN,Dog__2015_05713.png,Dog,People,0
+EnlightenGAN,Dog__2015_05718.png,Dog,People,0
+EnlightenGAN,Motorbike__2015_06155.JPEG,Motorbike,Motorbike,1
+EnlightenGAN,Motorbike__2015_06163.jpg,Motorbike,Motorbike,1
+EnlightenGAN,Motorbike__2015_06165.jpg,Motorbike,Motorbike,1
+EnlightenGAN,Motorbike__2015_06171.jpg,Motorbike,Motorbike,1
+EnlightenGAN,Motorbike__2015_06177.jpg,Motorbike,Motorbike,1
+EnlightenGAN,Motorbike__2015_06181.jpg,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06185.jpg,Motorbike,Car,0
+EnlightenGAN,Motorbike__2015_06188.jpg,Motorbike,Motorbike,1
+EnlightenGAN,Motorbike__2015_06190.jpg,Motorbike,Motorbike,1
+EnlightenGAN,Motorbike__2015_06198.png,Motorbike,Motorbike,1
+EnlightenGAN,Motorbike__2015_06200.png,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06202.png,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06203.png,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06209.png,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06210.png,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06213.png,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06216.png,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06219.png,Motorbike,People,0
+EnlightenGAN,Motorbike__2015_06244.jpg,Motorbike,People,0
+EnlightenGAN,Motorbike__2016_07356.jpg,Motorbike,Motorbike,1
+EnlightenGAN,People__2015_06655.JPEG,People,People,1
+EnlightenGAN,People__2015_06664.JPEG,People,People,1
+EnlightenGAN,People__2015_06666.JPEG,People,People,1
+EnlightenGAN,People__2015_06668.JPEG,People,People,1
+EnlightenGAN,People__2015_06670.JPEG,People,People,1
+EnlightenGAN,People__2015_06682.jpg,People,People,1
+EnlightenGAN,People__2015_06689.JPG,People,People,1
+EnlightenGAN,People__2015_06692.JPG,People,Car,0
+EnlightenGAN,People__2015_06694.jpg,People,People,1
+EnlightenGAN,People__2015_06716.jpg,People,People,1
+EnlightenGAN,People__2015_06720.jpg,People,Car,0
+EnlightenGAN,People__2015_06730.jpg,People,People,1
+EnlightenGAN,People__2015_06744.jpg,People,People,1
+EnlightenGAN,People__2015_06748.jpg,People,People,1
+EnlightenGAN,People__2015_06762.jpg,People,People,1
+EnlightenGAN,People__2015_06763.jpg,People,People,1
+EnlightenGAN,People__2015_06769.jpg,People,Boat,0
+EnlightenGAN,People__2015_06807.png,People,People,1
+EnlightenGAN,People__2015_06809.png,People,People,1
+EnlightenGAN,People__2015_06846.png,People,People,1
+EnlightenGAN,Table__2015_07258.jpg,Table,Chair,0
+EnlightenGAN,Table__2015_07259.jpg,Table,Chair,0
+EnlightenGAN,Table__2015_07265.jpg,Table,Table,1
+EnlightenGAN,Table__2015_07266.jpg,Table,Chair,0
+EnlightenGAN,Table__2015_07268.jpg,Table,Chair,0
+EnlightenGAN,Table__2015_07273.JPEG,Table,Dog,0
+EnlightenGAN,Table__2015_07282.jpg,Table,Table,1
+EnlightenGAN,Table__2015_07283.jpg,Table,People,0
+EnlightenGAN,Table__2015_07285.jpg,Table,People,0
+EnlightenGAN,Table__2015_07286.jpg,Table,Table,1
+EnlightenGAN,Table__2015_07289.jpg,Table,People,0
+EnlightenGAN,Table__2015_07291.jpg,Table,Table,1
+EnlightenGAN,Table__2015_07297.jpg,Table,Table,1
+EnlightenGAN,Table__2015_07306.png,Table,Chair,0
+EnlightenGAN,Table__2015_07307.png,Table,Boat,0
+EnlightenGAN,Table__2015_07321.png,Table,People,0
+EnlightenGAN,Table__2015_07328.png,Table,People,0
+EnlightenGAN,Table__2015_07329.png,Table,People,0
+EnlightenGAN,Table__2015_07350.png,Table,People,0
+EnlightenGAN,Table__2017_07358.jpg,Table,Chair,0
+KinD,Bicycle__2015_00404.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00431.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00449.JPG,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00458.JPG,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00475.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00477.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00486.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00493.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00505.png,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00523.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00533.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00534.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00537.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00545.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00558.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00599.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00604.jpg,Bicycle,Bus,0
+KinD,Bicycle__2015_00606.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00643.jpg,Bicycle,Bicycle,1
+KinD,Bicycle__2015_00644.jpg,Bicycle,Bicycle,1
+KinD,Boat__2015_01058.jpg,Boat,Boat,1
+KinD,Boat__2015_01095.jpg,Boat,Boat,1
+KinD,Boat__2015_01110.jpg,Boat,Boat,1
+KinD,Boat__2015_01125.jpg,Boat,People,0
+KinD,Boat__2015_01133.jpg,Boat,Boat,1
+KinD,Boat__2015_01163.JPEG,Boat,People,0
+KinD,Boat__2015_01166.JPEG,Boat,Boat,1
+KinD,Boat__2015_01176.JPEG,Boat,Boat,1
+KinD,Boat__2015_01215.jpg,Boat,Boat,1
+KinD,Boat__2015_01226.jpg,Boat,Boat,1
+KinD,Boat__2015_01232.jpg,Boat,Boat,1
+KinD,Boat__2015_01233.jpg,Boat,Boat,1
+KinD,Boat__2015_01245.jpg,Boat,Boat,1
+KinD,Boat__2015_01268.jpg,Boat,Boat,1
+KinD,Boat__2015_01273.png,Boat,Boat,1
+KinD,Boat__2015_01298.jpg,Boat,Chair,0
+KinD,Boat__2015_01301.jpg,Boat,People,0
+KinD,Boat__2015_01308.jpg,Boat,People,0
+KinD,Boat__2015_01320.png,Boat,Cup,0
+KinD,Boat__2015_01329.jpg,Boat,Boat,1
+KinD,Bottle__2015_01736.JPG,Bottle,People,0
+KinD,Bottle__2015_01752.jpg,Bottle,Bottle,1
+KinD,Bottle__2015_01759.jpg,Bottle,Table,0
+KinD,Bottle__2015_01762.jpg,Bottle,Table,0
+KinD,Bottle__2015_01765.jpg,Bottle,People,0
+KinD,Bottle__2015_01784.jpg,Bottle,Bottle,1
+KinD,Bottle__2015_01796.JPEG,Bottle,Bottle,1
+KinD,Bottle__2015_01797.JPEG,Bottle,Bottle,1
+KinD,Bottle__2015_01801.JPEG,Bottle,People,0
+KinD,Bottle__2015_01808.JPEG,Bottle,Bottle,1
+KinD,Bottle__2015_01815.JPEG,Bottle,Bottle,1
+KinD,Bottle__2015_01818.JPEG,Bottle,Cup,0
+KinD,Bottle__2015_01823.jpg,Bottle,Bottle,1
+KinD,Bottle__2015_01830.jpg,Bottle,Cup,0
+KinD,Bottle__2015_01838.jpg,Bottle,Bottle,1
+KinD,Bottle__2015_01860.png,Bottle,Chair,0
+KinD,Bottle__2015_01861.png,Bottle,People,0
+KinD,Bottle__2015_01866.png,Bottle,People,0
+KinD,Bottle__2015_01872.png,Bottle,People,0
+KinD,Bottle__2015_01874.png,Bottle,Table,0
+KinD,Bus__2015_02287.jpg,Bus,Bus,1
+KinD,Bus__2015_02288.jpg,Bus,Bus,1
+KinD,Bus__2015_02292.jpg,Bus,Bus,1
+KinD,Bus__2015_02293.jpg,Bus,People,0
+KinD,Bus__2015_02295.jpg,Bus,Bus,1
+KinD,Bus__2015_02298.jpg,Bus,Bus,1
+KinD,Bus__2015_02307.jpg,Bus,Car,0
+KinD,Bus__2015_02309.png,Bus,People,0
+KinD,Bus__2015_02310.jpg,Bus,Bus,1
+KinD,Bus__2015_02316.jpg,Bus,Bus,1
+KinD,Bus__2015_02319.jpg,Bus,Bus,1
+KinD,Bus__2015_02343.jpg,Bus,Bus,1
+KinD,Bus__2015_02349.JPEG,Bus,Bus,1
+KinD,Bus__2015_02355.JPEG,Bus,Car,0
+KinD,Bus__2015_02358.JPEG,Bus,Bus,1
+KinD,Bus__2015_02383.jpg,Bus,Bus,1
+KinD,Bus__2015_02388.jpg,Bus,People,0
+KinD,Bus__2015_02397.jpg,Bus,Bus,1
+KinD,Bus__2015_02399.png,Bus,Bus,1
+KinD,Bus__2015_02403.png,Bus,Bus,1
+KinD,Car__2015_02815.jpg,Car,Car,1
+KinD,Car__2015_02836.jpg,Car,Car,1
+KinD,Car__2015_02838.jpg,Car,Car,1
+KinD,Car__2015_02842.jpg,Car,Car,1
+KinD,Car__2015_02846.jpg,Car,Car,1
+KinD,Car__2015_02851.jpg,Car,Car,1
+KinD,Car__2015_02862.jpg,Car,Car,1
+KinD,Car__2015_02903.png,Car,Car,1
+KinD,Car__2015_02933.jpg,Car,Car,1
+KinD,Car__2015_02958.jpg,Car,Car,1
+KinD,Car__2015_02967.jpg,Car,Car,1
+KinD,Car__2015_02980.jpg,Car,Car,1
+KinD,Car__2015_02986.jpg,Car,Car,1
+KinD,Car__2015_02998.jpg,Car,Car,1
+KinD,Car__2015_03003.jpg,Car,Car,1
+KinD,Car__2015_03005.png,Car,Car,1
+KinD,Car__2015_03014.png,Car,Car,1
+KinD,Car__2015_03015.png,Car,Car,1
+KinD,Car__2015_03019.png,Car,People,0
+KinD,Car__2015_03035.jpg,Car,Car,1
+KinD,Cat__2015_03458.jpg,Cat,Car,0
+KinD,Cat__2015_03489.jpg,Cat,Cat,1
+KinD,Cat__2015_03500.jpg,Cat,Cat,1
+KinD,Cat__2015_03504.jpg,Cat,Cat,1
+KinD,Cat__2015_03509.jpg,Cat,Cat,1
+KinD,Cat__2015_03520.jpg,Cat,Cat,1
+KinD,Cat__2015_03524.jpg,Cat,Cat,1
+KinD,Cat__2015_03542.jpg,Cat,Cat,1
+KinD,Cat__2015_03550.jpg,Cat,Cat,1
+KinD,Cat__2015_03583.jpg,Cat,Dog,0
+KinD,Cat__2015_03592.jpg,Cat,Cat,1
+KinD,Cat__2015_03604.jpg,Cat,Cat,1
+KinD,Cat__2015_03640.jpg,Cat,Dog,0
+KinD,Cat__2015_03658.jpg,Cat,Cat,1
+KinD,Cat__2015_03664.jpg,Cat,Cat,1
+KinD,Cat__2015_03716.jpg,Cat,People,0
+KinD,Cat__2015_03725.jpg,Cat,Cat,1
+KinD,Cat__2015_03736.png,Cat,Dog,0
+KinD,Cat__2015_03749.png,Cat,Cat,1
+KinD,Cat__2015_03754.png,Cat,People,0
+KinD,Chair__2015_04186.JPG,Chair,Chair,1
+KinD,Chair__2015_04210.jpg,Chair,Chair,1
+KinD,Chair__2015_04222.png,Chair,Chair,1
+KinD,Chair__2015_04227.jpg,Chair,Chair,1
+KinD,Chair__2015_04237.jpg,Chair,Chair,1
+KinD,Chair__2015_04239.jpg,Chair,Chair,1
+KinD,Chair__2015_04245.jpg,Chair,Chair,1
+KinD,Chair__2015_04256.jpg,Chair,Chair,1
+KinD,Chair__2015_04260.jpg,Chair,Chair,1
+KinD,Chair__2015_04278.jpg,Chair,Chair,1
+KinD,Chair__2015_04306.jpg,Chair,Chair,1
+KinD,Chair__2015_04337.jpg,Chair,Chair,1
+KinD,Chair__2015_04343.jpg,Chair,Chair,1
+KinD,Chair__2015_04345.jpg,Chair,Chair,1
+KinD,Chair__2015_04357.jpg,Chair,People,0
+KinD,Chair__2015_04374.png,Chair,Chair,1
+KinD,Chair__2015_04395.png,Chair,People,0
+KinD,Chair__2015_04398.png,Chair,People,0
+KinD,Chair__2015_04416.png,Chair,People,0
+KinD,Chair__2015_04419.jpg,Chair,People,0
+KinD,Cup__2015_04825.jpg,Cup,Cup,1
+KinD,Cup__2015_04828.jpg,Cup,Cup,1
+KinD,Cup__2015_04832.jpg,Cup,Cup,1
+KinD,Cup__2015_04833.jpg,Cup,People,0
+KinD,Cup__2015_04835.jpg,Cup,People,0
+KinD,Cup__2015_04840.JPEG,Cup,Cup,1
+KinD,Cup__2015_04846.JPEG,Cup,Cup,1
+KinD,Cup__2015_04847.JPEG,Cup,Cup,1
+KinD,Cup__2015_04860.jpg,Cup,Cup,1
+KinD,Cup__2015_04870.jpg,Cup,People,0
+KinD,Cup__2015_04871.jpg,Cup,Cup,1
+KinD,Cup__2015_04874.jpg,Cup,Cup,1
+KinD,Cup__2015_04876.jpg,Cup,Cup,1
+KinD,Cup__2015_04877.jpg,Cup,Cup,1
+KinD,Cup__2015_04892.jpg,Cup,Table,0
+KinD,Cup__2015_04910.png,Cup,People,0
+KinD,Cup__2015_04911.png,Cup,Cup,1
+KinD,Cup__2015_04912.png,Cup,People,0
+KinD,Cup__2015_04913.png,Cup,People,0
+KinD,Cup__2015_04938.jpg,Cup,Cup,1
+KinD,Dog__2015_05371.jpg,Dog,Dog,1
+KinD,Dog__2015_05377.jpg,Dog,People,0
+KinD,Dog__2015_05385.jpg,Dog,Dog,1
+KinD,Dog__2015_05396.jpg,Dog,Dog,1
+KinD,Dog__2015_05415.jpg,Dog,Dog,1
+KinD,Dog__2015_05461.jpg,Dog,People,0
+KinD,Dog__2015_05499.JPEG,Dog,People,0
+KinD,Dog__2015_05510.jpg,Dog,Cat,0
+KinD,Dog__2015_05512.JPEG,Dog,Dog,1
+KinD,Dog__2015_05522.JPEG,Dog,Cat,0
+KinD,Dog__2015_05526.JPEG,Dog,Dog,1
+KinD,Dog__2015_05543.JPEG,Dog,Dog,1
+KinD,Dog__2015_05545.JPEG,Dog,Dog,1
+KinD,Dog__2015_05546.JPEG,Dog,Cat,0
+KinD,Dog__2015_05586.jpg,Dog,Cat,0
+KinD,Dog__2015_05608.jpg,Dog,People,0
+KinD,Dog__2015_05617.jpg,Dog,Dog,1
+KinD,Dog__2015_05707.png,Dog,People,0
+KinD,Dog__2015_05713.png,Dog,People,0
+KinD,Dog__2015_05718.png,Dog,People,0
+KinD,Motorbike__2015_06155.JPEG,Motorbike,Motorbike,1
+KinD,Motorbike__2015_06163.jpg,Motorbike,Motorbike,1
+KinD,Motorbike__2015_06165.jpg,Motorbike,Motorbike,1
+KinD,Motorbike__2015_06171.jpg,Motorbike,People,0
+KinD,Motorbike__2015_06177.jpg,Motorbike,Motorbike,1
+KinD,Motorbike__2015_06181.jpg,Motorbike,People,0
+KinD,Motorbike__2015_06185.jpg,Motorbike,Car,0
+KinD,Motorbike__2015_06188.jpg,Motorbike,Motorbike,1
+KinD,Motorbike__2015_06190.jpg,Motorbike,Motorbike,1
+KinD,Motorbike__2015_06198.png,Motorbike,Motorbike,1
+KinD,Motorbike__2015_06200.png,Motorbike,People,0
+KinD,Motorbike__2015_06202.png,Motorbike,People,0
+KinD,Motorbike__2015_06203.png,Motorbike,Car,0
+KinD,Motorbike__2015_06209.png,Motorbike,People,0
+KinD,Motorbike__2015_06210.png,Motorbike,People,0
+KinD,Motorbike__2015_06213.png,Motorbike,People,0
+KinD,Motorbike__2015_06216.png,Motorbike,Motorbike,1
+KinD,Motorbike__2015_06219.png,Motorbike,Bottle,0
+KinD,Motorbike__2015_06244.jpg,Motorbike,People,0
+KinD,Motorbike__2016_07356.jpg,Motorbike,Motorbike,1
+KinD,People__2015_06655.JPEG,People,People,1
+KinD,People__2015_06664.JPEG,People,People,1
+KinD,People__2015_06666.JPEG,People,People,1
+KinD,People__2015_06668.JPEG,People,People,1
+KinD,People__2015_06670.JPEG,People,People,1
+KinD,People__2015_06682.jpg,People,People,1
+KinD,People__2015_06689.JPG,People,People,1
+KinD,People__2015_06692.JPG,People,Car,0
+KinD,People__2015_06694.jpg,People,People,1
+KinD,People__2015_06716.jpg,People,People,1
+KinD,People__2015_06720.jpg,People,Car,0
+KinD,People__2015_06730.jpg,People,People,1
+KinD,People__2015_06744.jpg,People,People,1
+KinD,People__2015_06748.jpg,People,People,1
+KinD,People__2015_06762.jpg,People,People,1
+KinD,People__2015_06763.jpg,People,People,1
+KinD,People__2015_06769.jpg,People,Boat,0
+KinD,People__2015_06807.png,People,People,1
+KinD,People__2015_06809.png,People,People,1
+KinD,People__2015_06846.png,People,People,1
+KinD,Table__2015_07258.jpg,Table,Chair,0
+KinD,Table__2015_07259.jpg,Table,Chair,0
+KinD,Table__2015_07265.jpg,Table,Car,0
+KinD,Table__2015_07266.jpg,Table,Table,1
+KinD,Table__2015_07268.jpg,Table,Chair,0
+KinD,Table__2015_07273.JPEG,Table,Dog,0
+KinD,Table__2015_07282.jpg,Table,Table,1
+KinD,Table__2015_07283.jpg,Table,People,0
+KinD,Table__2015_07285.jpg,Table,People,0
+KinD,Table__2015_07286.jpg,Table,Chair,0
+KinD,Table__2015_07289.jpg,Table,People,0
+KinD,Table__2015_07291.jpg,Table,Table,1
+KinD,Table__2015_07297.jpg,Table,Cup,0
+KinD,Table__2015_07306.png,Table,Chair,0
+KinD,Table__2015_07307.png,Table,Boat,0
+KinD,Table__2015_07321.png,Table,People,0
+KinD,Table__2015_07328.png,Table,People,0
+KinD,Table__2015_07329.png,Table,People,0
+KinD,Table__2015_07350.png,Table,People,0
+KinD,Table__2017_07358.jpg,Table,Chair,0
+LIME,Bicycle__2015_00404.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00431.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00449.JPG,Bicycle,People,0
+LIME,Bicycle__2015_00458.JPG,Bicycle,Car,0
+LIME,Bicycle__2015_00475.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00477.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00486.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00493.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00505.png,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00523.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00533.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00534.jpg,Bicycle,Chair,0
+LIME,Bicycle__2015_00537.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00545.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00558.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00599.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00604.jpg,Bicycle,Bus,0
+LIME,Bicycle__2015_00606.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00643.jpg,Bicycle,Bicycle,1
+LIME,Bicycle__2015_00644.jpg,Bicycle,Bicycle,1
+LIME,Boat__2015_01058.jpg,Boat,Boat,1
+LIME,Boat__2015_01095.jpg,Boat,Boat,1
+LIME,Boat__2015_01110.jpg,Boat,Boat,1
+LIME,Boat__2015_01125.jpg,Boat,People,0
+LIME,Boat__2015_01133.jpg,Boat,Boat,1
+LIME,Boat__2015_01163.JPEG,Boat,Boat,1
+LIME,Boat__2015_01166.JPEG,Boat,Boat,1
+LIME,Boat__2015_01176.JPEG,Boat,Boat,1
+LIME,Boat__2015_01215.jpg,Boat,Chair,0
+LIME,Boat__2015_01226.jpg,Boat,People,0
+LIME,Boat__2015_01232.jpg,Boat,Boat,1
+LIME,Boat__2015_01233.jpg,Boat,Boat,1
+LIME,Boat__2015_01245.jpg,Boat,Boat,1
+LIME,Boat__2015_01268.jpg,Boat,Boat,1
+LIME,Boat__2015_01273.png,Boat,Boat,1
+LIME,Boat__2015_01298.jpg,Boat,Chair,0
+LIME,Boat__2015_01301.jpg,Boat,Chair,0
+LIME,Boat__2015_01308.jpg,Boat,People,0
+LIME,Boat__2015_01320.png,Boat,Cup,0
+LIME,Boat__2015_01329.jpg,Boat,Boat,1
+LIME,Bottle__2015_01736.JPG,Bottle,People,0
+LIME,Bottle__2015_01752.jpg,Bottle,Car,0
+LIME,Bottle__2015_01759.jpg,Bottle,People,0
+LIME,Bottle__2015_01762.jpg,Bottle,Cup,0
+LIME,Bottle__2015_01765.jpg,Bottle,People,0
+LIME,Bottle__2015_01784.jpg,Bottle,Bottle,1
+LIME,Bottle__2015_01796.JPEG,Bottle,Bottle,1
+LIME,Bottle__2015_01797.JPEG,Bottle,Bottle,1
+LIME,Bottle__2015_01801.JPEG,Bottle,People,0
+LIME,Bottle__2015_01808.JPEG,Bottle,People,0
+LIME,Bottle__2015_01815.JPEG,Bottle,Bottle,1
+LIME,Bottle__2015_01818.JPEG,Bottle,People,0
+LIME,Bottle__2015_01823.jpg,Bottle,Table,0
+LIME,Bottle__2015_01830.jpg,Bottle,Table,0
+LIME,Bottle__2015_01838.jpg,Bottle,Bottle,1
+LIME,Bottle__2015_01860.png,Bottle,Chair,0
+LIME,Bottle__2015_01861.png,Bottle,People,0
+LIME,Bottle__2015_01866.png,Bottle,Chair,0
+LIME,Bottle__2015_01872.png,Bottle,People,0
+LIME,Bottle__2015_01874.png,Bottle,People,0
+LIME,Bus__2015_02287.jpg,Bus,Bus,1
+LIME,Bus__2015_02288.jpg,Bus,Bus,1
+LIME,Bus__2015_02292.jpg,Bus,Bus,1
+LIME,Bus__2015_02293.jpg,Bus,People,0
+LIME,Bus__2015_02295.jpg,Bus,Bus,1
+LIME,Bus__2015_02298.jpg,Bus,Bus,1
+LIME,Bus__2015_02307.jpg,Bus,Car,0
+LIME,Bus__2015_02309.png,Bus,People,0
+LIME,Bus__2015_02310.jpg,Bus,Bus,1
+LIME,Bus__2015_02316.jpg,Bus,Bus,1
+LIME,Bus__2015_02319.jpg,Bus,Bus,1
+LIME,Bus__2015_02343.jpg,Bus,Bus,1
+LIME,Bus__2015_02349.JPEG,Bus,Bus,1
+LIME,Bus__2015_02355.JPEG,Bus,Car,0
+LIME,Bus__2015_02358.JPEG,Bus,Bus,1
+LIME,Bus__2015_02383.jpg,Bus,People,0
+LIME,Bus__2015_02388.jpg,Bus,People,0
+LIME,Bus__2015_02397.jpg,Bus,People,0
+LIME,Bus__2015_02399.png,Bus,Bus,1
+LIME,Bus__2015_02403.png,Bus,People,0
+LIME,Car__2015_02815.jpg,Car,People,0
+LIME,Car__2015_02836.jpg,Car,People,0
+LIME,Car__2015_02838.jpg,Car,Car,1
+LIME,Car__2015_02842.jpg,Car,Car,1
+LIME,Car__2015_02846.jpg,Car,Car,1
+LIME,Car__2015_02851.jpg,Car,Car,1
+LIME,Car__2015_02862.jpg,Car,Car,1
+LIME,Car__2015_02903.png,Car,Car,1
+LIME,Car__2015_02933.jpg,Car,Car,1
+LIME,Car__2015_02958.jpg,Car,Car,1
+LIME,Car__2015_02967.jpg,Car,Car,1
+LIME,Car__2015_02980.jpg,Car,Car,1
+LIME,Car__2015_02986.jpg,Car,Car,1
+LIME,Car__2015_02998.jpg,Car,Car,1
+LIME,Car__2015_03003.jpg,Car,Car,1
+LIME,Car__2015_03005.png,Car,Car,1
+LIME,Car__2015_03014.png,Car,Car,1
+LIME,Car__2015_03015.png,Car,Car,1
+LIME,Car__2015_03019.png,Car,People,0
+LIME,Car__2015_03035.jpg,Car,People,0
+LIME,Cat__2015_03458.jpg,Cat,People,0
+LIME,Cat__2015_03489.jpg,Cat,People,0
+LIME,Cat__2015_03500.jpg,Cat,Cat,1
+LIME,Cat__2015_03504.jpg,Cat,People,0
+LIME,Cat__2015_03509.jpg,Cat,Cat,1
+LIME,Cat__2015_03520.jpg,Cat,Cat,1
+LIME,Cat__2015_03524.jpg,Cat,Cat,1
+LIME,Cat__2015_03542.jpg,Cat,Cat,1
+LIME,Cat__2015_03550.jpg,Cat,People,0
+LIME,Cat__2015_03583.jpg,Cat,Dog,0
+LIME,Cat__2015_03592.jpg,Cat,Dog,0
+LIME,Cat__2015_03604.jpg,Cat,Bicycle,0
+LIME,Cat__2015_03640.jpg,Cat,People,0
+LIME,Cat__2015_03658.jpg,Cat,People,0
+LIME,Cat__2015_03664.jpg,Cat,Cat,1
+LIME,Cat__2015_03716.jpg,Cat,Cat,1
+LIME,Cat__2015_03725.jpg,Cat,Cat,1
+LIME,Cat__2015_03736.png,Cat,People,0
+LIME,Cat__2015_03749.png,Cat,People,0
+LIME,Cat__2015_03754.png,Cat,People,0
+LIME,Chair__2015_04186.JPG,Chair,People,0
+LIME,Chair__2015_04210.jpg,Chair,Chair,1
+LIME,Chair__2015_04222.png,Chair,Chair,1
+LIME,Chair__2015_04227.jpg,Chair,Chair,1
+LIME,Chair__2015_04237.jpg,Chair,Chair,1
+LIME,Chair__2015_04239.jpg,Chair,Chair,1
+LIME,Chair__2015_04245.jpg,Chair,People,0
+LIME,Chair__2015_04256.jpg,Chair,Chair,1
+LIME,Chair__2015_04260.jpg,Chair,People,0
+LIME,Chair__2015_04278.jpg,Chair,Chair,1
+LIME,Chair__2015_04306.jpg,Chair,Chair,1
+LIME,Chair__2015_04337.jpg,Chair,Car,0
+LIME,Chair__2015_04343.jpg,Chair,Bus,0
+LIME,Chair__2015_04345.jpg,Chair,Chair,1
+LIME,Chair__2015_04357.jpg,Chair,People,0
+LIME,Chair__2015_04374.png,Chair,People,0
+LIME,Chair__2015_04395.png,Chair,People,0
+LIME,Chair__2015_04398.png,Chair,People,0
+LIME,Chair__2015_04416.png,Chair,Chair,1
+LIME,Chair__2015_04419.jpg,Chair,People,0
+LIME,Cup__2015_04825.jpg,Cup,Cup,1
+LIME,Cup__2015_04828.jpg,Cup,Cup,1
+LIME,Cup__2015_04832.jpg,Cup,Cup,1
+LIME,Cup__2015_04833.jpg,Cup,People,0
+LIME,Cup__2015_04835.jpg,Cup,People,0
+LIME,Cup__2015_04840.JPEG,Cup,Cup,1
+LIME,Cup__2015_04846.JPEG,Cup,Cup,1
+LIME,Cup__2015_04847.JPEG,Cup,Cup,1
+LIME,Cup__2015_04860.jpg,Cup,People,0
+LIME,Cup__2015_04870.jpg,Cup,People,0
+LIME,Cup__2015_04871.jpg,Cup,Bottle,0
+LIME,Cup__2015_04874.jpg,Cup,People,0
+LIME,Cup__2015_04876.jpg,Cup,Cup,1
+LIME,Cup__2015_04877.jpg,Cup,People,0
+LIME,Cup__2015_04892.jpg,Cup,Cup,1
+LIME,Cup__2015_04910.png,Cup,Table,0
+LIME,Cup__2015_04911.png,Cup,Car,0
+LIME,Cup__2015_04912.png,Cup,People,0
+LIME,Cup__2015_04913.png,Cup,People,0
+LIME,Cup__2015_04938.jpg,Cup,Cup,1
+LIME,Dog__2015_05371.jpg,Dog,Dog,1
+LIME,Dog__2015_05377.jpg,Dog,Boat,0
+LIME,Dog__2015_05385.jpg,Dog,People,0
+LIME,Dog__2015_05396.jpg,Dog,Dog,1
+LIME,Dog__2015_05415.jpg,Dog,Dog,1
+LIME,Dog__2015_05461.jpg,Dog,People,0
+LIME,Dog__2015_05499.JPEG,Dog,People,0
+LIME,Dog__2015_05510.jpg,Dog,People,0
+LIME,Dog__2015_05512.JPEG,Dog,Dog,1
+LIME,Dog__2015_05522.JPEG,Dog,Cat,0
+LIME,Dog__2015_05526.JPEG,Dog,Cat,0
+LIME,Dog__2015_05543.JPEG,Dog,Dog,1
+LIME,Dog__2015_05545.JPEG,Dog,People,0
+LIME,Dog__2015_05546.JPEG,Dog,Cat,0
+LIME,Dog__2015_05586.jpg,Dog,Dog,1
+LIME,Dog__2015_05608.jpg,Dog,People,0
+LIME,Dog__2015_05617.jpg,Dog,Dog,1
+LIME,Dog__2015_05707.png,Dog,People,0
+LIME,Dog__2015_05713.png,Dog,People,0
+LIME,Dog__2015_05718.png,Dog,People,0
+LIME,Motorbike__2015_06155.JPEG,Motorbike,Car,0
+LIME,Motorbike__2015_06163.jpg,Motorbike,Motorbike,1
+LIME,Motorbike__2015_06165.jpg,Motorbike,Motorbike,1
+LIME,Motorbike__2015_06171.jpg,Motorbike,People,0
+LIME,Motorbike__2015_06177.jpg,Motorbike,Motorbike,1
+LIME,Motorbike__2015_06181.jpg,Motorbike,People,0
+LIME,Motorbike__2015_06185.jpg,Motorbike,Car,0
+LIME,Motorbike__2015_06188.jpg,Motorbike,Motorbike,1
+LIME,Motorbike__2015_06190.jpg,Motorbike,Bicycle,0
+LIME,Motorbike__2015_06198.png,Motorbike,Motorbike,1
+LIME,Motorbike__2015_06200.png,Motorbike,People,0
+LIME,Motorbike__2015_06202.png,Motorbike,Cat,0
+LIME,Motorbike__2015_06203.png,Motorbike,Car,0
+LIME,Motorbike__2015_06209.png,Motorbike,People,0
+LIME,Motorbike__2015_06210.png,Motorbike,People,0
+LIME,Motorbike__2015_06213.png,Motorbike,People,0
+LIME,Motorbike__2015_06216.png,Motorbike,Motorbike,1
+LIME,Motorbike__2015_06219.png,Motorbike,Bicycle,0
+LIME,Motorbike__2015_06244.jpg,Motorbike,People,0
+LIME,Motorbike__2016_07356.jpg,Motorbike,Motorbike,1
+LIME,People__2015_06655.JPEG,People,People,1
+LIME,People__2015_06664.JPEG,People,People,1
+LIME,People__2015_06666.JPEG,People,People,1
+LIME,People__2015_06668.JPEG,People,People,1
+LIME,People__2015_06670.JPEG,People,People,1
+LIME,People__2015_06682.jpg,People,People,1
+LIME,People__2015_06689.JPG,People,People,1
+LIME,People__2015_06692.JPG,People,Dog,0
+LIME,People__2015_06694.jpg,People,People,1
+LIME,People__2015_06716.jpg,People,People,1
+LIME,People__2015_06720.jpg,People,People,1
+LIME,People__2015_06730.jpg,People,People,1
+LIME,People__2015_06744.jpg,People,People,1
+LIME,People__2015_06748.jpg,People,Boat,0
+LIME,People__2015_06762.jpg,People,People,1
+LIME,People__2015_06763.jpg,People,People,1
+LIME,People__2015_06769.jpg,People,Boat,0
+LIME,People__2015_06807.png,People,People,1
+LIME,People__2015_06809.png,People,People,1
+LIME,People__2015_06846.png,People,People,1
+LIME,Table__2015_07258.jpg,Table,Chair,0
+LIME,Table__2015_07259.jpg,Table,Chair,0
+LIME,Table__2015_07265.jpg,Table,Chair,0
+LIME,Table__2015_07266.jpg,Table,Chair,0
+LIME,Table__2015_07268.jpg,Table,Chair,0
+LIME,Table__2015_07273.JPEG,Table,Dog,0
+LIME,Table__2015_07282.jpg,Table,People,0
+LIME,Table__2015_07283.jpg,Table,People,0
+LIME,Table__2015_07285.jpg,Table,People,0
+LIME,Table__2015_07286.jpg,Table,Chair,0
+LIME,Table__2015_07289.jpg,Table,People,0
+LIME,Table__2015_07291.jpg,Table,Table,1
+LIME,Table__2015_07297.jpg,Table,People,0
+LIME,Table__2015_07306.png,Table,Chair,0
+LIME,Table__2015_07307.png,Table,Table,1
+LIME,Table__2015_07321.png,Table,People,0
+LIME,Table__2015_07328.png,Table,Boat,0
+LIME,Table__2015_07329.png,Table,People,0
+LIME,Table__2015_07350.png,Table,People,0
+LIME,Table__2017_07358.jpg,Table,People,0

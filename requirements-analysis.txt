@@ -1,0 +1,3 @@
+# Dependencies for scripts/analyze_exdark_predictions.py
+numpy>=1.24
+matplotlib>=3.7
