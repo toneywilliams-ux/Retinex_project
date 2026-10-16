@@ -1,0 +1,7 @@
+Method,Accuracy (%),Macro precision (%)
+PWL Retinex,62.08,76.97
+Retinex-DIP,65.83,76.63
+LiCENt,65.42,74.70
+EnlightenGAN,63.33,76.65
+KinD,64.58,74.82
+LIME,50.83,67.35

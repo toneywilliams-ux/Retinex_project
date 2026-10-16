@@ -1,0 +1,28 @@
+# Python environments and caches
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Local datasets, downloaded checkpoints, and generated inference images
+datasets/
+checkpoints/
+method_sources/
+outputs/
+
+# Model weights and machine-local logs
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
