@@ -80,3 +80,7 @@ docs/         Workflow, datasets, metrics, and reproducibility notes
 ## Paper files
 
 Start with [`paper/pwl_retinex_comparison.tex`](paper/pwl_retinex_comparison.tex). Keep the sibling `paper/latex_figures/` directory when compiling. The matching PDF and editable DOCX are included as exports. The repository's currently retained source/results do not include a complete automated rerun for all learned methods; their checkpoints and full source repositories must be obtained separately.
+
+## Project report
+
+The current project report summarizes the PWL Retinex RTL architecture and the retained software quality and CPU runtime evaluations. It does not claim bit-accurate RTL quality results or new FPGA synthesis measurements. See [the project report](reports/retinex_project_report.pdf).
