@@ -1,0 +1,32 @@
+{
+  "hardware": {
+    "cpu_model": "AMD Ryzen AI 7 350",
+    "processor_identifier": "AMD64 Family 26 Model 96 Stepping 0, AuthenticAMD",
+    "execution_device": "CPU",
+    "gpu_timing": false
+  },
+  "datasets": {
+    "LOL-v1": {"split": "official test", "images": 15},
+    "LOL-v2 Real": {"split": "official test", "images": 100}
+  },
+  "input_protocol": {
+    "resize": "PIL bilinear",
+    "resolution": "512x512 RGB",
+    "warmup_runs_per_method": 3,
+    "timed_images_per_dataset": "all test images",
+    "timing_scope": "Common image decode and resize are excluded. Method-specific preprocessing, inference, and per-image optimization are included. Model/checkpoint loading is excluded.",
+    "retinex_dip_steps": 20
+  },
+  "software": {
+    "pytorch_methods": ["PWL Retinex", "LIME", "EnlightenGAN", "Retinex-DIP"],
+    "pytorch_version": "2.14.1+cpu",
+    "tensorflow_methods": ["LiCENt", "KinD"],
+    "tensorflow_version": "2.15.1",
+    "threads": 4
+  },
+  "notes": [
+    "The two benchmark runners are CPU-only; no GPU timing is reported.",
+    "These are software timings and are not FPGA latency/resource measurements.",
+    "The manuscript files are not changed by this repository update."
+  ]
+}

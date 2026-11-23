@@ -8,6 +8,7 @@ See [the step-by-step project walkthrough](PROJECT_WALKTHROUGH.md) for the RTL f
 - The LaTeX figure assets under `paper/latex_figures/`.
 - Reported paired and no-reference tables, retained LOL-v1 per-image metrics and ranges, and the figures used by the paper.
 - ExDark predictions for the common balanced sample, per-method confusion matrices, the summary table, and the combined plot.
+- CPU-only timing exports and trainable parameter counts for LOL-v1 and LOL-v2 Real, plus a script that rebuilds the equal-dataset mean table.
 - A dependency-light script that reconstructs the ExDark summary and confusion matrices from the saved predictions.
 - The existing Verilog modules and testbench at repository root.
 
@@ -23,7 +24,7 @@ The image datasets, object annotations, downloaded model checkpoints, and third-
 4. The blind no-reference metric averages have unequal output coverage; they are descriptive and not a fully matched per-image statistical comparison.
 5. Paired scores are reported as means and observed per-image ranges; the range bars are not standard deviations or run-to-run uncertainty estimates.
 6. The retained paired protocol uses five-pass averages for methods with repeated outputs; LiCENt is represented by one deterministic pass. This distinction is documented in the paper.
-7. No common hardware, energy, memory, or latency measurement was retained for all methods. Do not infer a numerical FPGA quality-versus-cost ranking from image-quality results.
+7. The retained timing records use a common CPU setup and do not measure FPGA latency, resource use, energy, or memory. Do not infer a numerical FPGA quality-versus-cost ranking from the software timings or image-quality results.
 
 ## Regenerating the ExDark figure
 

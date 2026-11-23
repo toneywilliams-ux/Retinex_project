@@ -1,0 +1,9 @@
+dataset,method,parameters,parameters_M,mean_seconds_per_image,sd_seconds_per_image,warmup_runs,timed_images,resolution,device,torch_threads,timing_scope
+LOL-v1,PWL Retinex,--,,0.09303007999997134,0.0017484771525823376,3,15,512x512 RGB,CPU,4,common resized image already in memory; includes method preprocessing and inference/optimization; excludes decode/checkpoint load
+LOL-v1,LIME,--,,0.7889423133333442,0.02963063615188232,3,15,512x512 RGB,CPU,4,common resized image already in memory; includes method preprocessing and inference/optimization; excludes decode/checkpoint load
+LOL-v1,EnlightenGAN,8636675,8.636675,0.5751073266666632,0.021193125458809872,3,15,512x512 RGB,CPU,4,common resized image already in memory; includes method preprocessing and inference/optimization; excludes decode/checkpoint load
+LOL-v1,Retinex-DIP (20 steps),707174,0.707174,6.812858660000014,0.24910588611590703,3,15,512x512 RGB,CPU,4,common resized image already in memory; includes method preprocessing and inference/optimization; excludes decode/checkpoint load
+LOL-v2 Real,PWL Retinex,--,,0.07394829799999343,0.0025249751349244575,3,100,512x512 RGB,CPU,4,common resized image already in memory; includes method preprocessing and inference/optimization; excludes decode/checkpoint load
+LOL-v2 Real,LIME,--,,0.620392051999986,0.01995896808912126,3,100,512x512 RGB,CPU,4,common resized image already in memory; includes method preprocessing and inference/optimization; excludes decode/checkpoint load
+LOL-v2 Real,EnlightenGAN,8636675,8.636675,0.7325451050000151,0.08534756352041815,3,100,512x512 RGB,CPU,4,common resized image already in memory; includes method preprocessing and inference/optimization; excludes decode/checkpoint load
+LOL-v2 Real,Retinex-DIP (20 steps),707174,0.707174,7.679738904999986,1.0450894153815373,3,100,512x512 RGB,CPU,4,common resized image already in memory; includes method preprocessing and inference/optimization; excludes decode/checkpoint load
